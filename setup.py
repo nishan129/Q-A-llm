@@ -8,11 +8,11 @@ def get_requirements() -> List[str]:
     return requirements_list
 
 setup(
-    name= "Question Answer Chat Bot",
+    name= "Question Answer ChatBot",
      version='0.0.0.0',
     author="Nishant Borkar",
     author_email="nishantborkar139@gmail.com",
-    description="Question Answer Chat Bot",
+    description="Question Answer ChatBot",
     packages=find_packages(),
     install_requires=get_requirements()
 )

@@ -1,7 +1,8 @@
-langchain==0.0.225
+langchain
 ctransformers==0.2.5
 sentence-transformers == 2.2.2
 pypdf
 flask
 faiss-cpu
+#langchain-community
 -e . 
