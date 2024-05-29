@@ -28,7 +28,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
 ```
-bash https://github.com/nishan129/Q-A-llm.git
+https://github.com/nishan129/Q-A-llm.git
 ```
 
 ```
