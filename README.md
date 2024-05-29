@@ -25,4 +25,8 @@ RAG leverages the power of both retrieval-based and generation-based models. It 
 
 ### Setup
 To set up the project locally, follow these steps:
-1. Clone the repository: 
+1. Clone the repository: ```bash https://github.com/nishan129/Q-A-llm.git ```
+```bash cd Q-A-llm ```
+2. Create and activate a virtual environment:
+```bash conda create -p llmapp python==3.10 -y ```
+```bash conda activate llmapp ```
